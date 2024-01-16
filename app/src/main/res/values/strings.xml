@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LarraToDoList</string>
+    <string name="text_item">Escreva o item</string>
+    <string name="list_name_edtText">NOME DA LISTA</string>
+</resources>
